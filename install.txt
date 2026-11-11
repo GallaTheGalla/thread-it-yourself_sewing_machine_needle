@@ -1,0 +1,4 @@
+Charset,UTF-8
+type,shell
+name,Thread-It-Yourself Sewing Machine Needle
+directory,thread-it-yourself_sewing_machine_needle
